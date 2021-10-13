@@ -1,13 +1,13 @@
 # Zeke Cora [CLang](https://.org)
 
-[![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
-[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
-[![Travis](https://img.shields.io/badge/language-Go-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-Php-pink.svg)]()
-[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
-
+[![Cora](https://img.shields.io/badge/language-C++-green.svg)]()
+[![Cora](https://img.shields.io/badge/language-Python-red.svg)]()
+[![Cora](https://img.shields.io/badge/language-JavaScript-blue.svg)]()
+[![Cora](https://img.shields.io/badge/language-C-red.svg)]()
+[![Cora](https://img.shields.io/badge/language-TypeScript-pink.svg)]()
+[![Cora](https://img.shields.io/badge/language-CSharp-yellow.svg)]()
 [![Cora](https://img.shields.io/badge/Zeke-Cora-yellow.svg)]()
+[![Cora](https://img.shields.io/badge/Engine-Eghan-blue.svg)]()
 
 ![Zeke Cora C/C++ ](./png/c.png)
 
@@ -31,11 +31,12 @@
 >python 
  <img src="pyi.png" alt="Cora PayPal !" style="height: 100px !important; width: 100px !important;" >
 </a>
+
  - [Projects]() 
-  - [Eghan.py]()
-  - [Spectra X ]()
-  - [Eghan Engine]()
-  - [Eghan Engine]()
+   - [Eghan.py]()
+   - [Spectra X ]()
+   - [Eghan Engine]()
+   - [Eghan Engine]()
 
 
 ## AI & Machine Learning
@@ -115,20 +116,15 @@ Thank you to all Supporters! 🙏
 
 > Please, consider supporting my work as I bear the pain and put a  lot of effort with support from you to make all my projects free and Openen Source! Thanks a lot.
 
-<a href="https://www.buymeacoffee.com/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 200px !important;" >
-</a>
-<a href="https://www.paypal.me/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Cora PayPal !" style="height: 51px !important;width: 200px !important;" >
-</a>
+<a href="https://www.buymeacoffee.com/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 200px !important;" ></a>
 
 -------
+
 If you have any question ,  opinion and other   any do not hesitate to contact me 
 sackeyetrue@gmail.com
 
-![image](content://com.google.android.apps.photos.contentprovider/-1/1/content%3A%2F%2Fmedia%2Fexternal%2Fimages%2Fmedia%2F18263/ORIGINAL/NONE/image%2Fpng/286942538)
 
-<a href="https://  .com">
-<img src=" " style=" color: blue ; height: 100px; width : 100px;  " />
-</a>
+<a href="https://  .com"><img src=" " style="  " /></a>
 
 [![Sackey Instagram](ig.png)](https://instagram.com/sackeyetrue)
 [![Sackey Facebook](ig.png)](https://facebook.com/sackeyetrue)
