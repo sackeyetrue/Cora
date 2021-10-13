@@ -1,18 +1,21 @@
 # Zeke Cora [Scripts](https://.org)
 
-[![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
-[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
-[![Travis](https://img.shields.io/badge/language-Go-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-Php-pink.svg)]()
-[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
+[![Cora](https://img.shields.io/badge/language-C++-green.svg)]()
+[![Cora](https://img.shields.io/badge/language-Python-red.svg)]()
+[![Cora](https://img.shields.io/badge/language-JavaScript-blue.svg)]()
+[![Cora](https://img.shields.io/badge/language-C-red.svg)]()
+[![Cora](https://img.shields.io/badge/language-TypeScript-pink.svg)]()
+[![Cora](https://img.shields.io/badge/language-CSharp-yellow.svg)]()
+[![Cora](https://img.shields.io/badge/Zeke-Cora-yellow.svg)]()
+[![Cora](https://img.shields.io/badge/Engine-Eghan-blue.svg)]()
 
 ![Zeke Cora JavaScript & TypeScript](./png/tsjs.png)
+
 #### JavaScript
 >JavaScript (JS) is a lightweight interpreted programming language with first-class functions.
 ![Zeke Cora Python](./png/js.png)
 
- #### Typescript
+#### Typescript
 >TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 ![Zeke Cora Python](./png/ts.png)
 
@@ -23,7 +26,6 @@
 ## Contents
 - [AI & Machine Learning]()
 - [Game Programming]()
-<!-- [Cli Tools & Graphics]() -->
 - [Graphics User Interface]()
 - [Web & Mobile Apps]()
 - [Database & Testing]()
@@ -34,11 +36,12 @@
 > JavaScript
  <img src="pyi.png" alt="Cora PayPal !" style="height: 100px !important; width: 100px !important;" >
 </a>
+
  - [Projects]() 
-  - [Eghan.py]()
-  - [Spectra X ]()
-  - [Eghan Engine]()
-  - [Eghan Engine]()
+   - [Eghan.py]()
+   - [Spectra X ]()
+   - [Eghan Engine]()
+   - [Eghan Engine]()
 
 
 ## AI & Machine Learning
@@ -113,10 +116,7 @@ Thank you to all Supporters! 🙏
 
 > Please, consider supporting my work as I bear the pain and put a  lot of effort with support from you to make all my projects free and Openen Source! Thanks a lot.
 
-<a href="https://www.buymeacoffee.com/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 200px !important;" >
-</a>
-<a href="https://www.paypal.me/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Cora PayPal !" style="height: 51px !important;width: 200px !important;" >
-</a>
+<a href="https://www.buymeacoffee.com/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 200px !important;" ></a>
 
 -------
 If you have any question ,  opinion and other   any do not hesitate to contact me 
