@@ -4,14 +4,15 @@
 
 ![Zeke Cora](./png/cora.png)
 
-<a href="#"><img src="https://img.shields.io/badge/language-CSharp-blue.svg" alt="CSharp" /></a>
-<a href="#"><img src="https://img.shields.io/badge/language-Eghan-blue.svg" alt="Eghan" /></a>
-<a href="#"><img src="https://img.shields.io/badge/language-C++-green.svg" alt="C++" /></a>
-<a href="#"><img src="https://img.shields.io/badge/language-C-red.svg" alt="CLang" /></a>
-<a href="#"><img src="https://img.shields.io/badge/language-JavaScript-yellow.svg" alt="Javascript" /></a>
-<a href="#"><img src="https://img.shields.io/badge/language-Python-red.svg" alt="Python" /></a>
-<a href="#"><img src="https://img.shields.io/badge/language-TypeScript-pink.svg" alt="TypeScript" /></a>
-<a href="#"><img src="https://img.shields.io/badge/language-Marfo-blue.svg" alt="Marfo" /></a>
+[![Cora](https://img.shields.io/badge/language-C++-green.svg)]()
+[![Cora](https://img.shields.io/badge/language-Python-red.svg)]()
+[![Cora](https://img.shields.io/badge/language-JavaScript-blue.svg)]()
+[![Cora](https://img.shields.io/badge/language-C-red.svg)]()
+[![Cora](https://img.shields.io/badge/language-Marfo-blue.svg)]()
+[![Cora](https://img.shields.io/badge/language-TypeScript-pink.svg)]()
+[![Cora](https://img.shields.io/badge/language-CSharp-yellow.svg)]()
+[![Cora](https://img.shields.io/badge/Zeke-Cora-yellow.svg)]()
+[![Cora](https://img.shields.io/badge/Engine-Eghan-blue.svg)]()
 
 ### Frameworks & Libraries
 
@@ -27,7 +28,7 @@ My Best Programming Languages and Framework I Recommend To Everyone
  <img src="pyi.png" alt="Cora PayPal !" style="height: 100px !important; width: 100px !important;" >
 </a>
 
- ## [Projects Pages]() :
+## [Projects Pages]() :
   - [Marfo]() Programming Language
   - [Eghan Engine]() Game Engine
   - [Spectra X ]() Video Game
@@ -35,17 +36,17 @@ My Best Programming Languages and Framework I Recommend To Everyone
   - [Xten Lang]() Programming Language
 
 ### Zeke Cora AI & ML
-<h1 align="center">Zeke Cora AI & ML</h1>
+<!-- <h1 align="center">Zeke Cora AI & ML</h1> -->
 ![Zeke Cora AI & ML](./png/cora.png)
 [More...]()
 
 ### Zeke Cora Games
-<h1 align="center">Zeke Cora Games</h1>
+<!-- <h1 align="center">Zeke Cora Games</h1> -->
 ![Zeke Cora Games ](./png/cora.png)
 [More...]()
 
 ## Community  :
-<h1 align="center">Community</h1>
+<!-- <h1 align="center">Community</h1> -->
 
 Please join our community On  
 Gitter https://gitter.im/sackeyetrue/cora 
@@ -54,29 +55,29 @@ Discord https://discord.com/sackeyetrue/cora
 >This project has adopted the code of conduct defined by the Contributor Covenant to clarify expected behavior in our community. For more information, see the .NET Foundation Code of Conduct [contribution guidelines]() first.
 
 ### Zeke Cora Mobile
-<h1 align="center">Zeke Cora Mobile</h1>
+<!-- <h1 align="center">Zeke Cora Mobile</h1> -->
 ![Zeke Cora Mobile](./png/cora.png)
 [More...]()
 
 ### Zeke Cora Webs
-<h1 align="center">Zeke Cora Webs</h1>
+<!-- <h1 align="center">Zeke Cora Webs</h1> -->
 ![Zeke Cora Web](./png/cora.png)
 [More...]()
 
 ### Zeke Cora Others
-<h1 align="center">Zeke Cora Others</h1>
+<!-- <h1 align="center">Zeke Cora Others</h1> -->
 ![Zeke Cora Others](./png/cora.png)
 [More...]()
 
  ## [Development]() :
-<h1 align="center">Development</h1>
+<!-- <h1 align="center">Development</h1> -->
   - [Eghan Engine]()
   - [Spectra X ]()
   - [Eghan Engine]()
   - [Eghan Engine]()
 
 ## Contributing  :
-<h1 align="center">Contributing</h1>
+<!-- <h1 align="center">Contributing</h1> -->
 
 Thank you to All Contributors! 🙏
 
@@ -87,16 +88,13 @@ Share your taught If a package or project here that need improvement or is not a
 Pull requests will be merged when their votes is 10+.
 
 ## Support Cora :
-<h1 align="center">Support Cora :</h1>
+<!-- <h1 align="center">Support Cora :</h1> -->
 
 Thank you to all Supporters! 🙏
 
 > Please, consider supporting my work as I bear the pain and put a  lot of effort with support from you to make all my projects free and Openen Source! Thanks a lot.
 
-<a href="https://www.buymeacoffee.com/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 200px !important;" >
-</a>
-<a href="https://www.paypal.me/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Cora PayPal !" style="height: 51px !important;width: 200px !important;" >
-</a>
+<a href="https://buymeacofee.com/sackeyetrue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 200px !important;" ></a>
 
 -------
 If you have any question ,  opinion and other   any do not hesitate to contact me 
